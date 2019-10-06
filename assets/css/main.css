@@ -3454,3 +3454,11 @@ body.is-menu-visible #menu .close {
 }
 
 
+.aboutcenter {
+	text-align: center;
+}
+
+.centertwo {
+	text-align: center;
+	margin: 4vh;
+}
